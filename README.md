@@ -1,4 +1,4 @@
-<p align="center"><img src="assets/hero-v2.svg" width="100%" alt="Hey, I'm Jyotheshwara Jagupilla. Data engineer and creative builder. Complex data. Clearer possibilities."></p>
+<p align="center"><img src="assets/hero-v2.svg" width="100%" alt="Hey, I'm Jyotheshwara Jagupilla. Data engineer, data analyst and creative builder. Complex data. Clearer possibilities."></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jyotheshwara-venkata-sai-kumar-jagupilla-4bb563283/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-4D9EFF?style=for-the-badge" alt="Connect on LinkedIn"></a>
@@ -6,18 +6,19 @@
   <a href="https://github.com/Jyotheshwara?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My_Repositories-64D8C4?style=for-the-badge" alt="Explore repositories"></a>
 </p>
 
-<p align="center"><b>SQL depth. ETL thinking. A creative streak.</b><br>I build data workflows for healthcare claims and analytics — and turn ideas into tools and music experiences after hours.</p>
+<p align="center"><b>Reliable pipelines. Meaningful analytics. A creative streak.</b><br>I work across <b>Data Engineering & Data Analytics</b> — building Python and PySpark ETL workflows, developing SQL solutions, and turning business questions into Power BI dashboards and insights. After hours, I turn ideas into tools and music experiences.</p>
 
 ## 👨‍💻 A little about the builder
 
 ```python
 class Jyotheshwara:
-    role = "SQL Developer & Data Engineer @ Endava"
+    role = "Data Engineer | Data Analyst | SQL Developer @ Endava"
     based_in = "Hyderabad, India"
     building_since = 2023
 
     data_world = ["Healthcare claims", "Python & PySpark ETL",
-                  "PostgreSQL", "Migration", "Power BI"]
+                  "PostgreSQL", "Migration", "Power BI & DAX"]
+    analytics = ["KPI dashboards", "Semantic models", "Data storytelling"]
     creative_world = ["J-Space", "J Sounds", "Web experiences"]
     approach = "Understand → build → validate → refine"
 ```
@@ -61,9 +62,9 @@ Database object conversion, compatibility fixes, schema mapping, source-to-targe
 
 ### 📊 Business questions → useful analytics
 
-**SSRS → Power BI · DAX · Azure DevOps**
+**Data Analytics · Power BI · Power Query · DAX**
 
-Dashboards, KPI scorecards and semantic models, with reporting modernization and deployment across Development, UAT, and Production.
+Translate business questions into dashboards, KPI scorecards and semantic models. Use Power Query for data preparation and DAX for analytical measures, validate results with SQL, and communicate findings through clear visual reporting. Experience includes SSRS-to-Power BI reporting modernization and deployment across Development, UAT, and Production using Azure DevOps.
 
 </td>
 </tr>
