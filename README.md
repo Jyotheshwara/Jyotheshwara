@@ -127,7 +127,17 @@ The table includes professional tools and technologies from my learning and POC 
 
 ## 🏅 Learning, with milestones
 
-<p align="center"><img src="assets/certifications.svg" width="100%" alt="Databricks Certified Data Engineer Associate, 2026; AWS Certified Cloud Practitioner, 2026."></p>
+<p align="center"><img src="assets/certifications.svg" width="100%" alt="Databricks Certified Data Engineer Associate — valid July 2026 to July 2028. AWS Certified Cloud Practitioner — valid October 2026 to October 2029."></p>
+
+<p align="center">
+<b>Databricks Certified Data Engineer Associate</b> · Databricks<br>
+Valid <b>July 2026 – July 2028</b> · <a href="https://credentials.databricks.com/b1000e28-0cbd-48ba-b3a6-52af242902eb#acc.hznsZmb6">View credential ↗</a>
+</p>
+
+<p align="center">
+<b>AWS Certified Cloud Practitioner</b> · Amazon Web Services<br>
+Valid <b>October 2026 – October 2029</b> · <a href="https://aws.amazon.com/verification">AWS verification portal ↗</a>
+</p>
 
 <details>
 <summary><b>Courses, credentials & learning paths</b></summary>
