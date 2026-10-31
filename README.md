@@ -1,115 +1,110 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Jyotheshwara Jagupilla — SQL Developer and Data Engineer. Python, PySpark ETL, PostgreSQL, migration and Power BI." width="100%">
-</p>
+<p align="center"><img src="assets/hero-v2.svg" width="100%" alt="Hey, I'm Jyotheshwara Jagupilla. Data engineer and creative builder. Complex data. Clearer possibilities."></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jyotheshwara-venkata-sai-kumar-jagupilla-4bb563283/">LinkedIn</a> ·
-  <a href="https://github.com/Jyotheshwara?tab=repositories">Repositories</a> ·
-  <a href="https://jyotheshwara.github.io/">Existing portfolio</a> ·
-  <a href="https://jsounds.pages.dev/">J Sounds</a>
+  <a href="https://www.linkedin.com/in/jyotheshwara-venkata-sai-kumar-jagupilla-4bb563283/"><img src="https://img.shields.io/badge/LET'S_CONNECT-LinkedIn-4D9EFF?style=for-the-badge" alt="Connect on LinkedIn"></a>
+  <a href="https://jsounds.pages.dev/"><img src="https://img.shields.io/badge/AFTER_HOURS-J_Sounds-B69BFF?style=for-the-badge" alt="Listen to J Sounds"></a>
+  <a href="https://github.com/Jyotheshwara?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-My_Repositories-64D8C4?style=for-the-badge" alt="Explore repositories"></a>
 </p>
 
-## About me
+<p align="center"><b>SQL depth. ETL thinking. A creative streak.</b><br>I build data workflows for healthcare claims and analytics — and turn ideas into tools and music experiences after hours.</p>
 
-<img align="right" src="assets/business-headshot.png" width="155" alt="Business portrait of Jyotheshwara Jagupilla">
+## 👨‍💻 A little about the builder
 
-I'm **Jyotheshwara Venkata Sai Kumar Jagupilla**, a **SQL Developer & Data Engineer at Endava**, with professional experience since **August 2023** across healthcare claims, ETL, database development, migration, and business intelligence.
+```python
+class Jyotheshwara:
+    role = "SQL Developer & Data Engineer @ Endava"
+    based_in = "Hyderabad, India"
+    building_since = 2023
 
-I connect **Python and PySpark data processing** with **SQL and PostgreSQL engineering**, data validation, and reporting. My work spans GxClaims healthcare workflows, cross-platform database migrations, and Power BI modernization.
+    data_world = ["Healthcare claims", "Python & PySpark ETL",
+                  "PostgreSQL", "Migration", "Power BI"]
+    creative_world = ["J-Space", "J Sounds", "Web experiences"]
+    approach = "Understand → build → validate → refine"
+```
 
-Outside my core domain, I enjoy building practical productivity tools and creative web experiences, including **J-Space** and **J Sounds**. I use AI-assisted development as part of my learning and building process.
+<p align="center"><img src="assets/data-path.svg" width="100%" alt="My data workflow: ingest source data, transform with Python and PySpark, validate with SQL and reconciliation, explain through Power BI and KPIs."></p>
 
-<br clear="right">
+## ⚡ Where I've put it to work
 
-## What I bring
+<table>
+<tr>
+<td width="50%" valign="top">
 
-| Engineer data | Modernize databases | Deliver analytics |
-| --- | --- | --- |
-| Python & PySpark ETL, SQL transformations, validation and reconciliation | PostgreSQL development, Oracle / SQL Server migration, schema mapping and query tuning | Power BI dashboards, DAX, Power Query, semantic models and KPI reporting |
+### 🧬 Healthcare data → dependable workflows
 
-## Selected professional experience
+**GxClaims · Python · PySpark · PostgreSQL**
 
-### 01 · GxClaims — ETL & Healthcare Data Engineering
+ETL workflows for claims data, transformations and validation — connected to SQL logic supporting claims validation and adjudication analysis.
 
-`Python` `PySpark` `SQL` `PostgreSQL` `Oracle`
+</td>
+<td width="50%" valign="top">
 
-- Developed **ETL workflows using Python and PySpark** for GxClaims healthcare claims data processing.
-- Worked on data transformation and validation within claims data workflows.
-- Developed database objects, stored procedures, functions, and SQL logic supporting claims validation and adjudication analysis.
-- Optimized SQL used by Java backend services and supported Oracle-to-PostgreSQL migration.
+### 🧩 Complex claim structures → configurable design
 
-### 02 · GxClaims F6 Upgrade — Database Design
+**GxClaims F6 · PL/pgSQL · JSONB · Python**
 
-`PostgreSQL` `PL/pgSQL` `JSONB` `Python` `NCPDP D.0 / F6`
+Template-driven PostgreSQL database design, D.0 / F6 mapping, adapter workflows, generated columns, indexes, and regression checks.
 
-- Led **template-driven PostgreSQL database design** and supported mapping between NCPDP D.0 and F6 claim structures.
-- Developed adapter and validation workflows.
-- Used generated columns, indexes, data reconciliation, and regression testing to support claims-processing workflows.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 03 · Database Migration & Reconciliation
+### 🔄 Different platforms → consistent data
 
-**Oracle → PostgreSQL · SQL Server → PostgreSQL · Azure SQL → BigQuery**
+**Oracle / SQL Server → PostgreSQL**<br>**Azure SQL → BigQuery**
 
-- Supported **GxClaims** and **GxDashMaps** migration through database-object conversion, compatibility fixes, and source-to-target validation.
-- Resolved SQL dialect, data-type, and procedural-logic differences across platforms.
-- Designed ELT pipelines and applied schema mapping and data modeling for Azure SQL to BigQuery migration.
-- Prepared technical documentation and source-to-target mappings.
+Database object conversion, compatibility fixes, schema mapping, source-to-target validation, and ELT pipelines. Experience includes GxClaims and GxDashMaps.
 
-### 04 · Power BI Reporting Modernization
+</td>
+<td width="50%" valign="top">
 
-`Power BI Desktop & Service` `DAX` `Power Query (M)` `SSRS` `Azure DevOps`
+### 📊 Business questions → useful analytics
 
-- Developed interactive dashboards, KPI scorecards, semantic models, and reports aligned with business requirements.
-- Migrated legacy **SSRS reports to Power BI**, redesigning report logic, layouts, and models.
-- Managed deployments across **Development, UAT, and Production** using deployment pipelines and Azure DevOps CI/CD.
-- Performed data validation and collaborated with reporting teams, clients, and business stakeholders.
+**SSRS → Power BI · DAX · Azure DevOps**
 
-### Additional hands-on work
+Dashboards, KPI scorecards and semantic models, with reporting modernization and deployment across Development, UAT, and Production.
 
-- **Databricks healthcare analytics POC:** Unity Catalog, Delta Lake, and Bronze / Silver / Gold Medallion Architecture.
-- **AWS cloud data engineering labs and POCs:** practical exploration of cloud storage, database connectivity, and data processing.
-- **Python database automation:** Streamlit utilities for database operations, spreadsheet comparison, and validation.
+</td>
+</tr>
+</table>
 
-*Professional project summaries describe my experience. Employer source code, internal schemas, and client data are not published here.*
+> **Also exploring:** Databricks healthcare analytics POC with Unity Catalog, Delta Lake, and Bronze / Silver / Gold layers; AWS cloud labs and POCs. Snowflake knowledge is foundational.
 
-## Beyond data engineering · Personal projects
+<sub>Professional experience summaries. Employer code, internal schemas, and client records are not published here.</sub>
 
-I also build tools and creative experiences outside my day-to-day role.
+## 🎧 After hours, I build differently
 
-### J-Space · A practical productivity workspace
+<table>
+<tr>
+<td width="50%"><a href="https://lnkd.in/drVv3GTR"><img src="assets/project-jspace.svg" width="100%" alt="Open J-Space: Database Studio, Excel Compare, PDF to Image and Grammar Checker. Python and Streamlit."></a></td>
+<td width="50%"><a href="https://jsounds.pages.dev/"><img src="assets/project-jsounds.svg" width="100%" alt="Open J Sounds: a music website with 25 compositions, search, favourites, sharing and an interactive player. React and Vite."></a></td>
+</tr>
+<tr>
+<td><b>Build something useful.</b><br>J-Space brings everyday database, spreadsheet, and document tasks into one workspace.<br><a href="https://lnkd.in/drVv3GTR">Open app ↗</a> · <a href="https://github.com/Jyotheshwara/J-Space">Private source</a></td>
+<td><b>Build something personal.</b><br>J Sounds brings music, cover art, and interactive web design together.<br><a href="https://jsounds.pages.dev/">Listen ↗</a> · <a href="https://github.com/Jyotheshwara/Jstudios">Private source</a></td>
+</tr>
+</table>
 
-**Python · Streamlit · SQL · Spreadsheet & document utilities**
+<details>
+<summary><b>🌐 My third project: the existing web portfolio</b></summary>
+<br>
+<a href="https://jyotheshwara.github.io/"><img src="assets/project-profile.svg" width="520" alt="Open my existing portfolio on GitHub Pages"></a>
 
-A workspace bringing routine tasks together:
+[Visit portfolio](https://jyotheshwara.github.io/) · [Public HTML/CSS/JavaScript source](https://github.com/Jyotheshwara/Jyotheshwara.github.io)
 
-- **Database Studio:** PostgreSQL, MySQL, and SQLite connectivity; Excel imports; SQL previews and review before database changes.
-- **Excel Compare:** compare sheets or workbooks and review matching and one-sided rows.
-- **PDF to Image:** convert PDF pages to PNG/JPEG, with previews and ZIP export.
-- **Grammar Checker:** LanguageTool-based grammar, spelling, and punctuation suggestions.
+</details>
 
-[Open app via LinkedIn project link](https://lnkd.in/drVv3GTR) · [Source repository — private](https://github.com/Jyotheshwara/J-Space)
+<sub>J-Space and Jstudios repositories are private; public visitors can use their app/site links. The J-Space button uses the project link shared on my LinkedIn.</sub>
 
-### J Sounds · Music meets an interactive web experience
+## 🛠️ My working toolkit
 
-**React · JavaScript · Vite · Cloudflare Pages**
+<p align="center"><img src="assets/toolkit.svg" width="100%" alt="Python, PostgreSQL, MySQL, MongoDB, AWS, GCP, Azure, Git, GitHub, VS Code, React and JavaScript."></p>
 
-My personal music website, built from the **Jstudios** repository. It presents **25 compositions** with individual artwork, a puzzle entrance, search and mood filtering, favourites, track sharing, and a player with queue, shuffle, repeat, volume, and seeking controls.
+<p align="center"><code>SQL</code> · <code>PySpark</code> · <code>Power BI</code> · <code>Databricks</code> · <code>BigQuery</code> · <code>Azure DevOps</code></p>
 
-This project brings together my interest in music, visual presentation, and interactive application design.
-
-[Listen on J Sounds](https://jsounds.pages.dev/) · [Jstudios source — private](https://github.com/Jyotheshwara/Jstudios)
-
-### Personal portfolio · My professional story on the web
-
-**HTML · CSS · JavaScript · GitHub Pages**
-
-My existing portfolio brings together my professional background, project summaries, education, and learning journey.
-
-[View existing portfolio](https://jyotheshwara.github.io/) · [Public source repository](https://github.com/Jyotheshwara/Jyotheshwara.github.io)
-
-*J-Space and Jstudios source repositories are private. Their source links require access; public visitors can use the app/site links above.*
-
-## Technical skills
+<details>
+<summary><b>Open the full technical skill map</b></summary>
 
 The table includes professional tools and technologies from my learning and POC work. The experience sections above show where I have applied them; proficiency varies by tool.
 
@@ -128,16 +123,14 @@ The table includes professional tools and technologies from my learning and POC 
 
 **Learning context:** Databricks lakehouse work includes a healthcare analytics POC; AWS experience includes labs and POCs; Snowflake knowledge is foundational.
 
-## Certifications & continuous learning
+</details>
 
-### Industry certifications
+## 🏅 Learning, with milestones
 
-| Credential | Year |
-| --- | --- |
-| **Databricks Certified Data Engineer Associate** | 2026 |
-| **AWS Certified Cloud Practitioner** | 2026 |
+<p align="center"><img src="assets/certifications.svg" width="100%" alt="Databricks Certified Data Engineer Associate, 2026; AWS Certified Cloud Practitioner, 2026."></p>
 
-### Courses, skill credentials & learning paths
+<details>
+<summary><b>Courses, credentials & learning paths</b></summary>
 
 | Learning / credential | Provider | Year |
 | --- | --- | --- |
@@ -150,7 +143,10 @@ The table includes professional tools and technologies from my learning and POC 
 
 *Course completions and learning paths are listed separately from industry certifications.*
 
-## Career at a glance
+</details>
+
+<details>
+<summary><b>🧭 The journey: GalaxE Solutions → Endava · Education</b></summary>
 
 | Period | Role | Organization |
 | --- | --- | --- |
@@ -163,8 +159,8 @@ The table includes professional tools and technologies from my learning and POC 
 **Bachelor of Technology · Electronics and Communication Engineering**<br>
 NRI Institute of Technology, Vijayawada · **2019–2023** · **CGPA 8.9/10**
 
-## Let's connect
+</details>
 
-I'm interested in **SQL development, ETL, data engineering, database migration, and business intelligence** — and in creative projects that turn practical ideas into useful experiences.
+---
 
-[Connect with me on LinkedIn](https://www.linkedin.com/in/jyotheshwara-venkata-sai-kumar-jagupilla-4bb563283/) · [Explore my repositories](https://github.com/Jyotheshwara?tab=repositories) · [Listen to J Sounds](https://jsounds.pages.dev/)
+<p align="center"><b>Let's talk data, useful tools, or a creative idea.</b><br><a href="https://www.linkedin.com/in/jyotheshwara-venkata-sai-kumar-jagupilla-4bb563283/">Connect on LinkedIn ↗</a> · <a href="https://jsounds.pages.dev/">Step into J Sounds ↗</a></p>
